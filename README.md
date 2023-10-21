@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ---
 
 ![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31efmabncplixn3hvbz3almkpxte&width=1000)
